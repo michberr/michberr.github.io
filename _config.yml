@@ -3,8 +3,8 @@ title: Michelle A. Berry
 email: michberr8@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-baseurl:  https://michberr.github.io # the subpath of your site, e.g. /blog/
-url:  https://michberr.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
 twitter_username: mich_berr
 github_username:  michberr
 
