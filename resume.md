@@ -538,7 +538,7 @@ ol li {
         <h1>Michelle Berry</h1>
 
 <blockquote>
-  <p><a href="/assets/documents/MichelleBerry-Resume.pdf">Download PDF</a></p>
+  <p><a href="/img/MichelleBerry_resume.pdf">Download PDF</a></p>
 </blockquote>
 
 <hr />
@@ -606,17 +606,18 @@ Stanford Dressage Team captain. Financial manager of Kairos student cooperative 
 <dt>Scientific Programming Instructor</dt>
 <dd><em>Software Carpentry</em>
 <strong>May 2015 - Present</strong>
-Led workshops for academic researchers on effectively using code for data analysis. Curriculum included R, Bash, Git, SQL. Participated in mentorship program to mentor new instructors on teaching their first workshops.</dd>
+Leading workshops for academic researchers on effectively using code for data analysis. Curriculum includes R, Bash, Git, and SQL. Member of instructor mentorship program to mentor new instructors on teaching their first workshops.</dd>
 
 <dt>Research Scientist</dt>
 <dd><em>University of Michigan, Ann Arbor, MI</em>
 <strong>Jun 2014 - Aug 2016</strong>
-Led segments of a large-scale collaborative research project examining toxic algal blooms in Lake Erie that led to water shutoffs for 500,000 people.</dd>
+Led segments of a large-scale collaborative research project examining toxic algal blooms in Lake Erie that led to water shutoffs for 500,000 people. Developed codebase in R to analyze high-dimensional sparse time-series data.</dd>
 
 <dt>R Meetup Group Co-Organizer</dt>
 <dd><em>Ann Arbor, MI</em>
 <strong>Oct 2015 - Aug 2016</strong>
-Michigan projects.</dd>
+Co-organized R programming and statistics meetup in Ann Arbor with monthly meetings. Taught and designed curriculum for local R programming workshops.
+<a href="annarborrusergroup.github.io">annarborrusergroup.github.io</a></dd>
 
 
 

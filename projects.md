@@ -22,15 +22,14 @@ title: projects
 <h2><em>Academic</em></h2> 
 <br><br>
 
-<img src="/img/oligotypes.png" width = "150" height = "200" align = "right" style = "margin: 0px 30px 0px 5px">    
+<img src="/img/oligotypes.png" width = "150" height = "275" align = "right" style = "margin: 0px 15px 0px 5px">    
 
-<h3>Oligotyping</h3>
-A paper examining the ecological and evolutionary interpretations of the Oligotyping method, which is gaining popularity in genomic studies.
+<h3>Inferring microbial species from genome sequencing</h3>
+A critical perspective piece on the Oligotyping method, which is gaining popularity in genomic studies of microbial populations to provide higher resolution of species units. We summarize how this method has been used in the disciplinary literature and examine the validity of several ecological claims. 
 Paper published in [Frontiers in Microbiology](http://journal.frontiersin.org/article/10.3389/fmicb.2017.00365/full). Code available on [GitHub](https://github.com/DenefLab/microcystis-oligotypes).
+     
+***Tools**: R, Oligotyping, Unix*
 <br/>
-<br>
-<br>
-<br>
 <br>
 <hr/>
 
@@ -43,6 +42,6 @@ An ecological analysis of microbial community population dynamics during a major
 
 ***Analytics**: Multidimensional scaling, time series analysis, linear regression, model selection, bootstrapping*     
 ***Tools**: R, Mothur*
-<br/>
+<br>
 <hr/>
 
