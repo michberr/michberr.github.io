@@ -38,7 +38,7 @@ Paper published in [Frontiers in Microbiology](http://journal.frontiersin.org/ar
 <img src="/img/chab.png" width = "175" height = "150" align = "right" style = "margin: 20px 20px 0px 0px">    
 
 <h3>Lake Erie Harmful Algal Blooms</h3>
-An ecological analysis of microbial community population dynamics during a major Cyanobacterial harmful algal bloom in Lake Erie that led to water shutdowns for 500,000 people in Toledo Ohio. Paper published in [Environmental Microbiology](http://onlinelibrary.wiley.com/doi/10.1111/1462-2920.13640/abstract?campaign=wolacceptedarticle). Code available on [GitHub](https://github.com/DenefLab/chab-microbial-ecology).
+An ecological analysis of microbial community population dynamics during a major Cyanobacterial harmful algal bloom in Lake Erie that led to water shutdowns for 500,000 people in Toledo, Ohio. Paper published in [Environmental Microbiology](http://onlinelibrary.wiley.com/doi/10.1111/1462-2920.13640/abstract?campaign=wolacceptedarticle). Code available on [GitHub](https://github.com/DenefLab/chab-microbial-ecology).
 
 ***Analytics**: Multidimensional scaling, time series analysis, linear regression, model selection, bootstrapping*     
 ***Tools**: R, Mothur*
